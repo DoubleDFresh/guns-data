@@ -7,4 +7,6 @@ There are five files in this repository:
 - `full_data.csv` - cleaned gun-death data from the CDC for 2012-2014.
 - `SHR_parser.R` - code to clean and parse data from the FBI's [Supplementary Homicide Reports](https://www.icpsr.umich.edu/icpsrweb/content/NACJD/guides/ucr.html).
 
-Questions/comments/corrections: [email Ben Casselman](mailto:ben.casselman@fivethirtyeight.com)
+Questions/comments/corrections: [email Ben Casselman](mailto:ben.casselman@fivethirtyeight.com)   
+
+###Added from RStudio
